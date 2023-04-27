@@ -23,3 +23,4 @@ Route::get('/records/{id}', 'RecordController@show');
 Route::get('/records/{id}/edit', 'RecordController@edit');
 Route::put('/records/{id}', 'RecordController@update');
 Route::delete('/records/{id}', 'RecordController@destroy');
+bruh
